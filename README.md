@@ -40,5 +40,3 @@
  -email
  -password
  -nickname
-
-
